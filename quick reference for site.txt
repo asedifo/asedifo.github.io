@@ -1,0 +1,4 @@
+sidebar 3535
+intro 3256
+sidebar gradients 3777
+behind image on skills/proj 3036 rgba
